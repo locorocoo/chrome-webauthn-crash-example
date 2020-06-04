@@ -1,0 +1,8 @@
+{
+  "name": "custody-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
